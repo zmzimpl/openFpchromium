@@ -14,4 +14,3 @@
 请大哥帮帮忙
 <img src="https://github.com/FPEsocrter/openFpchromium/assets/39473597/6d863eed-0e43-491a-843e-3364eddd2ae2" width="200">
 
-![20240428232231](https://github.com/FPEsocrter/openFpchromium/assets/39473597/6d863eed-0e43-491a-843e-3364eddd2ae2)
