@@ -1,6 +1,6 @@
 # openFpchromium
 # Forever free anti-detect browser
-# 指纹浏览器
+# 开源指纹浏览器
 # fp-Browser 
 # 支持市面的所有的参数
 # Custom Fingerprints
